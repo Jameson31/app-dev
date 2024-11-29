@@ -1,7 +1,6 @@
 # app-dev
 My first repository.
-# H1
-My favorite series/movies
+# My favorite series/movies
 ** Series**
 1. Can't buy me love
 2. Arcane Series

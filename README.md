@@ -1,12 +1,12 @@
 # app-dev
 My first repository.
 # My favorite series/movies
-** Series**
+### Series
 1. Can't buy me love
 2. Arcane Series
 3. Shameless
 4. Suits
-** Movies **
+### Movies
 1. Interstellar
 2. Ghosted
 3. Source Code
